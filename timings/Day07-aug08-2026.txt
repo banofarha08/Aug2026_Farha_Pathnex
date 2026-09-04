@@ -1,0 +1,5 @@
+4 hour - morning live class
+2 hour - practice of linux commands
+1 hour - interview question
+1 hour - git push
+
