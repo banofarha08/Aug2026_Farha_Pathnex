@@ -1,0 +1,5 @@
+ 1 hour - english practice
+ 2 hour - revision
+ 1 hour - git push
+ 2 hour - interview question
+
